@@ -1,0 +1,91 @@
+
+
+@media only screen and (min-width: 780px) {
+    .container {
+        background-color:#0b1118;
+        width: 100%;
+        margin-top: -22px;
+        height: 850px;
+    }
+    
+.banner1{
+    width: 500px;
+    height: 700px;
+    margin-top: 40px;
+    margin-left: 150px;
+}
+
+.container1{
+    display: flex;
+}
+.profitRise
+{
+    color:aliceblue;
+    margin-top: 240px;
+    margin-left: 120px;
+}
+.p1{
+    color:aliceblue;
+    margin-top: -20px;
+    margin-left: 32px;
+}
+.p2{
+    color: aliceblue;
+    padding: 15px;
+    padding-left: 55px;
+}
+.p2container{
+    background-color: darkcyan;
+    width: 240px;
+    height: 50px;
+    margin-left: 180px;
+}
+}
+
+
+@media only screen and (max-width: 708px) {
+    .container {
+        background-color:#0b1118;
+        width: 100%;
+        margin-top: -22px;
+        height: 850px;
+    }
+    
+.banner1{
+    width: 250px;
+    height:250px;
+    margin-top: 40px;
+    margin-left:60px;
+}
+
+.container1{
+    display: flow-root;
+}
+.profitRise
+{
+    color:aliceblue;
+    margin-top: 40px;
+    margin-left: 90px;
+    font-size: 18px;
+}
+.p1{
+    color:aliceblue;
+    margin-top: 5px;
+    margin-left: 30px;
+    font-size: 10px;
+}
+.p2{
+    color: aliceblue;
+    padding: 5px;
+    padding-left: 15px;
+    font-size: 15px;
+}
+.p2container{
+    background-color: darkcyan;
+    width: 150px;
+    height: 33px;
+    margin-left: 122px;
+}
+}
+
+

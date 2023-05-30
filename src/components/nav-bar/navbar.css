@@ -1,0 +1,11 @@
+@media only screen and (max-width: 708px) {
+    
+    .navmenus{
+        display: none;
+    }
+    .smallText
+    {
+        font-size:10px;
+    }
+  }
+
